@@ -12,7 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // put your code here
-        echo "this is project 13";
+        echo "This is my edit to index.php for CIS255 - Prog02";
         ?>
     </body>
 </html>
